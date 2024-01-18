@@ -1,0 +1,7 @@
+Score: +100 for at have øverste række rigtig, +1000 for at have hele pladen rigtig 
+(Spillet vinder stadig ved øverste række, men benytter denne score til hvis fuld plade skulle opnås i simulationerne)
+Manhattan Distance: - (ManhattanDistance)^2
+Actions bliver tildelt point efter den højst opnåede score under simulationerne (Max)
+
+
+Data i csv filen: win, runtime, moves, total moves, ###
