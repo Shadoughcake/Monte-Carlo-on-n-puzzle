@@ -1,0 +1,5 @@
+Bruger Manhatten distance til score. (i potenser)
+Får score ved korrekt tile placement +100.
+Hvis de 3 øverste korrekt +1000000
+I R-sim vælger den den vej med højest score udfra hvad var højest efter 1000 random moves.
+trækker 3*moves fra R-sim scoren.
