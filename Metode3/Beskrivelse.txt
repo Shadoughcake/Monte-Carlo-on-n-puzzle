@@ -1,0 +1,5 @@
+Score: +1.000.000 for at have øverste række på plads, manhattan distancer giver  -10^distancen
+Actions bliver tildelt point efter den højst opnåede score under simulationerne (Max)
+
+
+Data i csv filen: win, runtime, moves, total moves
