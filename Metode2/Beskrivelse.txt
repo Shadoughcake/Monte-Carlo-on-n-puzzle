@@ -1,0 +1,2 @@
+Får kun point når den har fået 3 i toppen.
+Tager summen af alle sim moves og tager den højeste.
