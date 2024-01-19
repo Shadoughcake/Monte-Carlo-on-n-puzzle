@@ -1,0 +1,4 @@
+Bruger Manhatten distance til score. (i potenser)
+Får score ved korrekt tile placement +100.
+Hvis de 3 øverste korrekt +1000000
+I R-sim vælger den vejen med højeste sum.
